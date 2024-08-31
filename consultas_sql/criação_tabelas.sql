@@ -1,4 +1,4 @@
-CREATE TABLE `transactions` (
+CREATE TABLE `contoso_ltda`.`transactions` (
   `transaction_id` int NOT NULL,
   `customer_id` int NOT NULL,
   `product_id` int NOT NULL,
